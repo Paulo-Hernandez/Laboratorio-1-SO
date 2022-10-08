@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1665270006 source:c:\users\herna\desktop\lab01\lab-01\main.cpp
+	<iostream>
+	<Job.h>
+	<cstdlib>
+	<funciones.h>
+
+1665263978 source:c:\users\herna\desktop\lab01\lab-01\src\job.cpp
+	"Job.h"
+
+1665263978 c:\users\herna\desktop\lab01\lab-01\include\job.h
+	<iostream>
+
+1665270908 source:c:\users\herna\desktop\lab01\lab-01\src\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<Job.h>
+	<cstdlib>
+
+1665270908 c:\users\herna\desktop\lab01\lab-01\include\funciones.h
+	<iostream>
+	<Job.h>
+	<cstdlib>
+
