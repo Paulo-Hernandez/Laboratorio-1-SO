@@ -14,7 +14,7 @@ int main()
     Job Q3[10]; // FCFS
 
     cout <<"*******************BIENVENIDO*******************"<< endl;
-    cout <<"LAB 01/ SISTEMAS OPERATIVOS \n\n\tINTEGRANTES\n\t-Paulo Hernandez\n\t-Martin Hurtado"<< endl;
+    cout <<"LAB 01/ SISTEMAS OPERATIVOS \n\n\tINTEGRANTES\n\t-Paulo Hernandez\n\t-Martin Hurtado\n\t-Nicolas Barra\n\t-Jaime Ugaz"<< endl;
     cout <<"\nPara la implementacion del MLQ usaremos 3 Queue que son con los algoritmos de R-R, R-R y FCFS"<< endl;
     cout <<"para esto necesitamos que el usuario ingrese los tiempos de llegada y rafagas para cada proceso"<< endl;
     system("pause");
